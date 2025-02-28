@@ -1,8 +1,8 @@
-# Code Challenge Template
+# Code Challenge 2025
 
-This is a template for Code Challenges.
+This is Code Challenge 2025.
 
-It simply provides input and output utilities.
+Look at [PDF]() for Challenge Rules.
 
 # How to use
 
